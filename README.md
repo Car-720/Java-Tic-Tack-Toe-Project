@@ -1,5 +1,5 @@
 # Java-Tic-Tack-Toe-Project
-This is a weekend project for me to build up my portfolio
+This is a weekend project for me to build up my portfolio. I was following a tutorial on YouTube
 <h1>Features</h1>
 <div>
 <ul>
